@@ -1,0 +1,23 @@
+.column1, .column2, .column3, .column4 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 25%;
+}
+.column2 {
+  padding-left: 25%;
+}
+.column3 {
+  padding-left: 50%;
+}
+.column4 {
+  padding-left: 75%;
+}
+
+.image {
+width: 95%;
+margin-top: 10px;
+border: 5px solid black;
+border-radius: 10px;
+}
