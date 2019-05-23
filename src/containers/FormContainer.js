@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import Form from '../components/PicsList';
+import Form from '../components/Form';
 
 
 const mapDispatchToProps = (dispatch) => ({
